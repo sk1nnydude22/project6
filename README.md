@@ -17,7 +17,7 @@
   <p> I would like to visit either be Canada, or Ireland</p>
 <hr="2">
 
-<ahref="https://en.wikipedia.org/wiki/Ireland">
+<ahref="https://en.wikipedia.org/wiki/Ireland ">
 
 
 
@@ -36,5 +36,5 @@
  <h2> Favorite Presidents<h2>
   <p>
   <ol>   My favorite president would probably be either JFK, or FDR </ol>
-  <ahref="https://en.wikipedia.org/wiki/Franklin_D._Roosevelt">
+  <ahref="https://en.wikipedia.org/wiki/Franklin_D._Roosevelt ">
 </html>
